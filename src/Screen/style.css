@@ -1,0 +1,8 @@
+.background{
+    background-color: #cbced3;
+}
+.today-requests{
+    border: 1px solid #cbced3;
+    border-radius: 3px;
+    height: 300px;
+}
